@@ -25,5 +25,8 @@ A small collection of midi files . It is present in the data folder
 4. Music21 - For handeling midi files
 5. Sklearn
 
-References-
+#### Output -
+Shown in the sample output folder
+
+#### References-
 https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
